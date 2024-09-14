@@ -1,0 +1,6 @@
+[sql]
+host = "localhost"
+port = 5432
+database = "gin_example"
+username = "go_testings"
+password = "Gh+y.Mt,C]7Cir6V"
